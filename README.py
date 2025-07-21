@@ -30,24 +30,10 @@ Virtualenv
 I wanted to understand how GPT-2 really works — beyond just clicking buttons on ChatGPT. So I dove deep, broke stuff, fixed it, and came out with this working text generator.
 It’s simple, fast, and all mine.
 
-
-▶️ How to Run It Locally
-bash
-Copy
-Edit
-# Step 1: Clone the repo
-git clone https://github.com/sanvisharma850/gpt2-text-generator.git
-cd gpt2-text-generator
-
-# Step 2: Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-# Step 3: Install dependencies
-pip install -r requirements.txt
-
-# Step 4: Run the app
-streamlit run app.py
+🧩 **Live App:**  
+👉 [Click here to generate text live](https://[your-streamlit-app-url])  
+*(hosted with love on Streamlit Cloud)*
+  
 🚀 Coming Soon
 Save generated text as a file
 
