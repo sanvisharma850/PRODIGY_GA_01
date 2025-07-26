@@ -30,16 +30,6 @@ Virtualenv
 I wanted to understand how GPT-2 really works — beyond just clicking buttons on ChatGPT. So I dove deep, broke stuff, fixed it, and came out with this working text generator.
 It’s simple, fast, and all mine.
 
-🧩 **Live App:**  
-👉 [Click here to generate text live](https://[your-streamlit-app-url])  
-*(hosted with love on Streamlit Cloud)*
-  
-🚀 Coming Soon
-Save generated text as a file
-
-Multiple model options (GPT-2 small, medium, large)
-
-User input history tracking
 
 🧵 Connect with Me
 
